@@ -1,5 +1,5 @@
 ### Проект: Интернет-площадка B2C и B2B для компании Проминтел с полной интеграцией с 1С
-! [Скриншот] (https://github.com/Ahrusy/promintel/blob/main/promintel.png)
+![Скриншот](https://github.com/Ahrusy/promintel/blob/main/promintel.png)
 ---
 
 #### **Описание проекта**
